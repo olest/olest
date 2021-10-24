@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Staff Bioinformatics Scientist at Illumina.
+I am a Staff Bioinformatics Scientist at Illumina.
 
 - 🌱 I’m currently learning functonal programming.
-- 💬 Ask me about genomics, C++ and python.
+- 💬 Ask me about genomics, C++, python and machine learning.
 
 <!--
 **olest/olest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
