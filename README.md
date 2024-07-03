@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Staff Bioinformatics Scientist at Illumina.
+I am a Senior Staff Scientist at Illumina.
 
-- 🌱 I’m currently learning functonal programming.
+- 🌱 I’m currently learning Rust.
 - 💬 Ask me about genomics, C++, python and machine learning.
 
 <!--
